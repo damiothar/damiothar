@@ -1,9 +1,7 @@
-<small>📍 Living in Buenos Aires, Argentina</small>
-
 <h1>Hi 👋 I'm Damian</h1>
 
 <p>
-  I am 27 years old. I am in my last year of <b>Bachelor of Graphic Design.</b> Working as a <b>frontend developer</b> 💻 for almost 2 years.</br>
+  I am 27 years old. I am in my last year of <b>Bachelor of Graphic Design ✒.</b> Working as a <b>frontend developer</b> 💻 for almost 2 years.</br>
   In 2019 I started teaching web design at <a href="https://www.coderhouse.com/">Coderhouse Academy</a> and before that, I was an English teacher for adults.
 </p>
 
@@ -12,4 +10,4 @@
   I like to learn, develop new skills, travel, and get to know other cultures.
 </p>
 
-<a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a></br>
+<a href="https://www.linkedin.com/in/damianothar/"🔗 LinkedIn</a></br>

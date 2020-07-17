@@ -10,4 +10,4 @@
   I like to learn, develop new skills, travel, and get to know other cultures.
 </p>
 
-<a href="https://www.linkedin.com/in/damianothar/"🔗 LinkedIn</a></br>
+<a href="https://www.linkedin.com/in/damianothar/">🔗 LinkedIn</a></br>

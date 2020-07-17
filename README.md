@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a></br>
+
 <h1>Hi 👋 I'm Damian</h1>
 
 <p>
@@ -9,5 +11,3 @@
   I love sci-fi movies, books, and video games. Also, I play the guitar since I was eleven.</br>
   I like to learn, develop new skills, travel, and get to know other cultures.
 </p>
-
-<a href="https://www.linkedin.com/in/damianothar/">🔗 LinkedIn</a></br>

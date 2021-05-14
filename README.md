@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a>
 
-<h3>About</h1>
+<h2>About</h1>
 
 <p>
   Full Stack Designer, musician, photographer & cinephile, specially science fiction.
@@ -8,14 +8,18 @@
   I love to travel, snowboarding & trekking.
 </p>
 
-<h3>Experience</h1>
+<h2>Experience</h1>
 
 <ul>
   <li>
-    <h4>Bitopia</h4>
-    <p>Frontend Tech Leader</p>
-    <small>Apr 2021 - Present</small>
-    <p>Frontend Developer</p>
-    <small>Mar 2020 - Mar 2021</small>
+    <h3>Bitopia</h3>
+    <ul>
+      <li>
+        <strong>Frontend Tech Leader</strong> | Apr 2021 - Present
+      </li>
+      <li>
+        <strong>Frontend Developer</strong> | Mar 2020 - Mar 2021
+      </li>
+    </ul>
   </li> 
 </ul>

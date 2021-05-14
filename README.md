@@ -15,10 +15,12 @@
     <h3>Bitopia</h3>
     <ul>
       <li>
-        <strong>Frontend Tech Leader</strong> | Apr 2021 - Present
+        <strong>Frontend Tech Leader</strong><br>
+        Apr 2021 - Present
       </li>
       <li>
-        <strong>Frontend Developer</strong> | Mar 2020 - Mar 2021
+        <strong>Frontend Developer</strong><br>
+        Mar 2020 - Mar 2021
       </li>
     </ul>
   </li> 

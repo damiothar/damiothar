@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a>
 
-<h1>About</h1>
+<h3>About me</h1>
 
 <p>
   Full Stack Designer, musician, photographer & cinephile, specially science fiction.

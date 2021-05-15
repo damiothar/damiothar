@@ -1,4 +1,4 @@
-<h3><a href="https://www.linkedin.com/in/damianothar/">🔗 LinkedIn</a></h3>
+<h3>🔗 <a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a></h3>
 <br />
 
 <h2>🔹  A B O U T  🔹</h1>

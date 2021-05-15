@@ -10,14 +10,14 @@
 <br />
 
 <h2>🔹  E X P E R I E N C E  🔹</h1>
-<h3>🔸 Bitopia</h3>
+<h3>🔸 Bitopia 🔸</h3>
 <p>
   <strong>Frontend Tech Leader</strong> | Apr 2021 - Present<br />
   <strong>Frontend Developer</strong> | Mar 2020 - Mar 2021
 </p>
-<h3>🔸 Coderhouse</h3>
+<h3>🔸 Coderhouse 🔸</h3>
 <p><strong>Web Design Teacher</strong> | Nov 2019 – Oct 2020</p>
-<h3>🔸 AB Project</h3>
+<h3>🔸 AB Project 🔸</h3>
 <p><strong>Frontend Developer</strong> | Sep 2018 – Feb 2020</p>
 <br />
 

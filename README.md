@@ -10,7 +10,7 @@
 <h2>Experience</h1>
 <h3>Bitopia</h3>
 <p>
-  <strong>Frontend Tech Leader</strong> | Apr 2021 - Present
+  <strong>Frontend Tech Leader</strong> | Apr 2021 - Present 
   <strong>Frontend Developer</strong> | Mar 2020 - Mar 2021
  </p>
 <br />

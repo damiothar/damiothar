@@ -2,15 +2,15 @@
 <br />
 <h2>About</h1>
 <p>
-  Full Stack Designer, musician, photographer & cinephile, specially science fiction.
-  I'm a perfectionist, always looking to learn new stuff.
+  Full Stack Designer, musician, photographer & cinephile, specially science fiction.<br />
+  I'm a perfectionist, always looking to learn new stuff.<br />
   I love to travel, snowboarding & trekking.
 </p>
 <br />
 <h2>Experience</h1>
 <h3>Bitopia</h3>
 <p>
-  <strong>Frontend Tech Leader</strong> | Apr 2021 - Present 
+  <strong>Frontend Tech Leader</strong> | Apr 2021 - Present<br />
   <strong>Frontend Developer</strong> | Mar 2020 - Mar 2021
  </p>
 <br />

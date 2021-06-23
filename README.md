@@ -3,7 +3,7 @@
 
 <h2>🔹  A B O U T  🔹</h1>
 <p>
-  Full Stack Designer, musician, photographer & cinephile, specially science fiction.<br />
+  Frontend Tech Leader, musician, photographer & cinephile, specially science fiction.<br />
   I'm a perfectionist, always looking to learn new stuff.<br />
   I love to travel, snowboarding & trekking.
 </p>

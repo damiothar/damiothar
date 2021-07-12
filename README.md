@@ -1,4 +1,4 @@
-<h3>🔸 <a href="linkedin.com/in/damiothar/">LinkedIn</a> 🔸 <a href="codepen.io/damiothar">CodePen</a> 🔸</h3>
+<h3>🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a> 🔸 <a href="https://codepen.io/damiothar">CodePen</a> 🔸</h3>
 
 <br />
 

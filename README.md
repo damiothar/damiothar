@@ -28,4 +28,5 @@
   <li>CSS / SASS</li>
   <li>JavaScript</li>
   <li>Vue.js</li>
+  <li>Nuxt.js</li>
 <ul>

@@ -25,6 +25,7 @@
 <h2>🔹  S K I L L S  🔹</h2>
 <ul>
   <li>UX / UI Design</li>
+  <li>HTML</li>
   <li>CSS / SASS</li>
   <li>JavaScript</li>
   <li>Vue.js</li>

@@ -2,11 +2,14 @@
 
 <br />
 
-<h2>🔹  A B O U T  🔹</h1>
+<h2>🔹  A B O U T    M E  🔹</h1>
 <p>
-  Frontend Tech Leader, musician, photographer & cinephile, specially science fiction.<br />
-  I'm a perfectionist, always looking to learn new stuff.<br />
-  I love to travel, snowboarding & trekking.
+- Currently working as a Tech Leader in the Frontend Website Team.
+- I studied Graphic Design in Buenos Aires.
+- I'm a perfectionist, always looking to learn new stuff.
+- I’m not afraid of new technologies. I embrace the progress of programming.
+- Sci-Fi Nerd. Amateur photographer and musician.
+- I love to travel, snowboarding and trekking.
 </p>
 <br />
 

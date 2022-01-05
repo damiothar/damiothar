@@ -64,7 +64,7 @@
 <br />
 
 <h3>
-  English Teacher | Aug 2011 – Dec 2016 (5y 5m)
+  🔸 English Teacher | Aug 2011 – Dec 2016 (5y 5m)
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,4 +73,54 @@
 <blockquote>
   - When I finished high school, I worked teaching English to adult beginners in a Buenos Aires Government program.<br />
 </blockquote>
+<br />
+
+<h2>EDUCATION</h2>
+
+<h3>
+  🔸 BA, Graphic Design | 2016 - 2020 (4y)
+</h3>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  UADE ◽ <a href="https://www.uade.edu.ar/">uade.edu.ar</a>
+</p>
+<br />
+
+<h3>
+  🔸 BA, Graphic Design | 2016 - 2020 (4y)
+</h3>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  UADE ◽ <a href="https://www.uade.edu.ar/">uade.edu.ar</a>
+</p>
+<br />
+
+<h3>
+  🔸 Web Development School
+</h3>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Platzi ◽ <a href="https://platzi.com/">platzi.com</a>
+</p>
+<blockquote>
+  - Vue.js Professional<br />
+  - Vue.js 2 Basic<br />
+  - jQuery & JavaScript<br />
+  - JavaScript Fundamentals<br />
+  - JavaScript Basic<br />
+  - Design Systems for Developers<br />
+  - Web Animations<br />
+  - Frontend Developer<br />
+  - Bootstrap<br />
+  - Responsive Design<br />
+  - Web Development<br />
+  - SASS<br />
+  - CSS Grid Layout<br />
+  - CSS Layouts<br />
+  - Practical HTML & CSS<br />
+  - HTML & CSS<br />
+  - Dev Environment Configuration Windows<br />
+  - Dev Environment Configuration MacOs<br />
+</blockquote>
+
 <br />

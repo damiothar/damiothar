@@ -18,19 +18,23 @@
 
 <h2>EXPERIENCE</h1>
 <h3>
- <strong>Frontend Tech Leader</strong> | Apr 2021 - Present<br />
- <strong>Frontend Developer</strong> | Mar 2020 - Mar 2021</h3>
+ 🔸 <strong>Frontend Tech Leader</strong> | Apr 2021 - Present<br />
+ 🔸 <strong>Frontend Developer</strong> | Mar 2020 - Mar 2021</h3>
 <p>
   Bitopia<br />
   <a href="https://bitopia.digital/">bitopia.digital</a>
 </p>
 <br/>
 
-<h3><strong>Web Design Teacher</strong> | Nov 2019 – Oct 2020</h3>
+<h3>
+  🔸 <strong>Web Design Teacher</strong> | Nov 2019 – Oct 2020
+</h3>
 <p>Coderhouse</p>
 <br/>
 
-<h3><strong>Frontend Developer</strong> | Sep 2018 – Feb 2020</h3>
+<h3>
+  🔸 Frontend Developer | Sep 2018 – Feb 2020
+</h3>
 <p>AB Project</p>
 <br />
 

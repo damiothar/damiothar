@@ -76,16 +76,6 @@
 <br />
 
 <h2>EDUCATION</h2>
-
-<h3>
-  🔸 BA, Graphic Design | 2016 - 2020 (4y)
-</h3>
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  UADE ◽ <a href="https://www.uade.edu.ar/">uade.edu.ar</a>
-</p>
-<br />
-
 <h3>
   🔸 BA, Graphic Design | 2016 - 2020 (4y)
 </h3>
@@ -122,5 +112,37 @@
   - Dev Environment Configuration Windows<br />
   - Dev Environment Configuration MacOs<br />
 </blockquote>
+<br />
 
+<h3>
+  🔸 English Advance | 2004 - 2010 (6y)
+</h3>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Denver Institute
+</p>
+<br />
+
+<h2>SKILLS</h2>
+<blockquote>
+  - HTML<br />
+  - CSS & SASS<br />
+  - JavaScript & Typescript<br />
+  - Vue.js & Nuxt.js<br />
+  - Git, GitHub & Bitbucket<br />
+  - GSAP, Bootstrap & Bulma<br />
+  - Graphic Design<br />
+  - UI & UX<br />
+  - Google Material Design<br />
+  - Video Editing<br />
+  - Adobe Creative Suite<br />
+  - Microsoft Office<br />
+</blockquote>
+<br />
+
+<h2>LANGUAGES</h2>
+<blockquote>
+  - Spanish (Native)<br />
+  - English (Advance)<br />
+</blockquote>
 <br />

@@ -1,8 +1,11 @@
-<h3>🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a> 🔸 <a href="https://codepen.io/damiothar">CodePen</a> 🔸</h3>
+<h3>
+🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a><br />
+🔸 <a href="https://codepen.io/damiothar">CodePen</a>
+</h3>
 
 <br />
 
-<h2>🔹  A B O U T  🔹</h1>
+<h2>ABOUT ME</h1>
 <ul>
   <li>Currently working as a Tech Leader in the Frontend Website Team.</li>
   <li>I studied Graphic Design in Buenos Aires.</li>

@@ -2,15 +2,15 @@
 
 <br />
 
-<h2>🔹  A B O U T    M E  🔹</h1>
-<p>
-- Currently working as a Tech Leader in the Frontend Website Team.
-- I studied Graphic Design in Buenos Aires.
-- I'm a perfectionist, always looking to learn new stuff.
-- I’m not afraid of new technologies. I embrace the progress of programming.
-- Sci-Fi Nerd. Amateur photographer and musician.
-- I love to travel, snowboarding and trekking.
-</p>
+<h2>🔹  A B O U T  🔹</h1>
+<ul>
+  <li>Currently working as a Tech Leader in the Frontend Website Team.</li>
+  <li>I studied Graphic Design in Buenos Aires.</li>
+  <li>I'm a perfectionist, always looking to learn new stuff.</li>
+  <li>I’m not afraid of new technologies. I embrace the progress of programming.</li>
+  <li>Sci-Fi Nerd. Amateur photographer and musician.</li>
+  <li>I love to travel, snowboarding and trekking.</li>
+</ul>
 <br />
 
 <h2>🔹  E X P E R I E N C E  🔹</h1>

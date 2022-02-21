@@ -17,6 +17,15 @@
 
 <h2>EXPERIENCE</h2>
 <h3>
+  🔸 Senior Frontend Developer | Feb 2022 - Present
+</h3>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Emissary.ai ◽ <a href="https://www.emissary.ai/">emissary.ai</a>
+</p>
+<br />
+
+<h3>
   🔸 Frontend Tech Leader | Apr 2021 - Present (1 y)<br />
   🔸 Frontend Developer | Mar 2020 - Mar 2021 (1 y)
 </h3>

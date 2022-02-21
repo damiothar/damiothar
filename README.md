@@ -26,7 +26,7 @@
 <br />
 
 <h3>
-  🔸 Frontend Tech Leader | Apr 2021 - Present (1 y)<br />
+  🔸 Frontend Tech Leader | Apr 2021 - Feb 2022 (1 y)<br />
   🔸 Frontend Developer | Mar 2020 - Mar 2021 (1 y)
 </h3>
 <p>

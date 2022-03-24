@@ -7,9 +7,9 @@
 <h2>ABOUT ME</h2>
 <blockquote>
   - Currently working with Nuxt stack.<br />
-  - I studied Graphic Design in Buenos Aires.<br />
-  - I'm a perfectionist, always looking to learn new stuff.<br />
-  - I’m not afraid of new technologies. I embrace the progress of programming.<br />
+  - Studied Graphic Design in Buenos Aires.<br />
+  - Not afraid of new technologies, always learning.<br />
+  - Perfectionist.<br />
   - Sci-Fi Nerd. Amateur photographer and musician.<br />
   - I love to travel, snowboarding and trekking.<br />
 </blockquote>

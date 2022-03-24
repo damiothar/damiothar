@@ -134,8 +134,7 @@
 
 <h2>SKILLS</h2>
 <blockquote>
-  - HTML<br />
-  - CSS & SASS<br />
+  - SASS<br />
   - JavaScript & Typescript<br />
   - Vue.js & Nuxt.js<br />
   - Git, GitHub & Bitbucket<br />
@@ -145,7 +144,6 @@
   - Google Material Design<br />
   - Video Editing<br />
   - Adobe Creative Suite<br />
-  - Microsoft Office<br />
 </blockquote>
 <br />
 

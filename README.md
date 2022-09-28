@@ -6,12 +6,12 @@
 
 <h2>ABOUT ME</h2>
 <blockquote>
-  - Currently working with Nuxt stack.<br />
-  - Studied Graphic Design in Buenos Aires.<br />
-  - Not afraid of new technologies, always learning.<br />
-  - Perfectionist.<br />
-  - Sci-Fi Nerd. Amateur photographer and musician.<br />
-  - I love to travel, snowboarding and trekking.<br />
+  - Currently working with Vue/Nuxt stack 🖥<br />
+  - Studied Graphic Design in Buenos Aires 🎨<br />
+  - Always learning 🤓<br />
+  - Perfectionist 👌<br />
+  - Sci-Fi Nerd 🚀, amateur photographer 📷 and Musician 🎸<br />
+  - I love to travel ✈, snowboarding 🏂 and trekking 🏃‍♂️<br />
 </blockquote>
 <br />
 

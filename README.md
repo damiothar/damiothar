@@ -17,7 +17,7 @@
 <h2>SKILLS</h2>
 <blockquote>
   - JavaScript & Typescript<br />
-  - Multiple JS libraries such as: GSAP, Three.js, Hammer.js, Howler.js, etc<br />
+  - Multiple JS libraries such as: axios, GSAP, Three.js, Hammer.js, Howler.js, etc<br />
   - Vue.js & Nuxt.js<br />
   - CSS/SASS and style/components libraries such as: Vuetify, Bootstrap, Bulma/Bueffy, etc<br />
   - GitHub & Bitbucket<br />

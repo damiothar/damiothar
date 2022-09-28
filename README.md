@@ -19,7 +19,7 @@
   - JavaScript & Typescript<br />
   - Multiple JS libraries such as: GSAP, Three.js, Hammer.js, etc<br />
   - Vue.js & Nuxt.js<br />
-  - CSS/SASS and style/components libraries such as: Vuetify, Bootstrap & Bulma/Bueffy<br />
+  - CSS/SASS and style/components libraries such as: Vuetify, Bootstrap, Bulma/Bueffy, etc<br />
   - GitHub & Bitbucket<br />
   - Graphic Design<br />
   - UI & UX Design based on Google Material Design<br />

@@ -9,7 +9,7 @@
   - Currently working with Vue/Nuxt stack 🖥<br />
   - I've studied Graphic Design in Buenos Aires 🎨<br />
   - I am perfectionist 👌 and I am always learning 🤓<br />
-  - Sci-Fi Nerd 🚀, amateur photographer 📷 and Musician 🎸<br />
+  - Sci-Fi Nerd 🚀, amateur photographer 📷 and musician 🎸<br />
   - I love to travel ✈, snowboarding 🏂 and trekking 🏃‍♂️<br />
 </blockquote>
 <br />

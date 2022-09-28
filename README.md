@@ -7,9 +7,8 @@
 <h2>ABOUT ME</h2>
 <blockquote>
   - Currently working with Vue/Nuxt stack 🖥<br />
-  - Studied Graphic Design in Buenos Aires 🎨<br />
-  - Always learning 🤓<br />
-  - Perfectionist 👌<br />
+  - I've studied Graphic Design in Buenos Aires 🎨<br />
+  - I am Perfectionist 👌 and I am Always learning 🤓<br />
   - Sci-Fi Nerd 🚀, amateur photographer 📷 and Musician 🎸<br />
   - I love to travel ✈, snowboarding 🏂 and trekking 🏃‍♂️<br />
 </blockquote>

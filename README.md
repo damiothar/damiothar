@@ -21,6 +21,7 @@
   - Vue.js & Nuxt.js<br />
   - CSS/SASS and style/components libraries such as: Vuetify, Bootstrap, Bulma/Bueffy, etc<br />
   - GitHub & Bitbucket<br />
+  - Cypress<br />
   - Graphic Design<br />
   - UI & UX Design based on Google Material Design<br />
   - Video Editing<br />

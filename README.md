@@ -16,14 +16,13 @@
 
 <h2>SKILLS</h2>
 <blockquote>
-  - SASS<br />
   - JavaScript & Typescript<br />
+  - Multiple JS libraries such as: GSAP, Three.js, Hammer.js, etc<br />
   - Vue.js & Nuxt.js<br />
-  - Git, GitHub & Bitbucket<br />
-  - GSAP, Bootstrap & Bulma<br />
+  - CSS/SASS and style/components libraries such as: Vuetify, Bootstrap & Bulma/Bueffy<br />
+  - GitHub & Bitbucket<br />
   - Graphic Design<br />
-  - UI & UX<br />
-  - Google Material Design<br />
+  - UI & UX Design based on Google Material Design<br />
   - Video Editing<br />
   - Adobe Creative Suite<br />
 </blockquote>

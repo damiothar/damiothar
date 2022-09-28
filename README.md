@@ -14,6 +14,28 @@
 </blockquote>
 <br />
 
+<h2>SKILLS</h2>
+<blockquote>
+  - SASS<br />
+  - JavaScript & Typescript<br />
+  - Vue.js & Nuxt.js<br />
+  - Git, GitHub & Bitbucket<br />
+  - GSAP, Bootstrap & Bulma<br />
+  - Graphic Design<br />
+  - UI & UX<br />
+  - Google Material Design<br />
+  - Video Editing<br />
+  - Adobe Creative Suite<br />
+</blockquote>
+<br />
+
+<h2>LANGUAGES</h2>
+<blockquote>
+  - Spanish (Native)<br />
+  - English (Advance)<br />
+</blockquote>
+<br />
+
 <h2>EXPERIENCE</h2>
 <h3>
   🔸 Senior Frontend Developer | Feb 2022 - Present
@@ -129,26 +151,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Denver Institute
 </p>
-<br />
-
-<h2>SKILLS</h2>
-<blockquote>
-  - SASS<br />
-  - JavaScript & Typescript<br />
-  - Vue.js & Nuxt.js<br />
-  - Git, GitHub & Bitbucket<br />
-  - GSAP, Bootstrap & Bulma<br />
-  - Graphic Design<br />
-  - UI & UX<br />
-  - Google Material Design<br />
-  - Video Editing<br />
-  - Adobe Creative Suite<br />
-</blockquote>
-<br />
-
-<h2>LANGUAGES</h2>
-<blockquote>
-  - Spanish (Native)<br />
-  - English (Advance)<br />
-</blockquote>
 <br />

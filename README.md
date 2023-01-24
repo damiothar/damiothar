@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiothar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiothar&show_icons=true&theme=tranparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>
   🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a></br>

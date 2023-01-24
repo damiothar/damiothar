@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiothar&show_icons=true&theme=tranparent)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>
   🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a></br>
   🔸 <a href="https://codepen.io/damiothar">CodePen</a>
@@ -29,6 +27,9 @@
   - Video Editing<br />
   - Adobe Creative Suite<br />
 </blockquote>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 <h2>LANGUAGES</h2>
@@ -44,7 +45,7 @@
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Emissary.ai ◽ <a href="https://www.emissary.ai/">emissary.ai</a>
+  Emissary.ai | <a href="https://www.emissary.ai/">emissary.ai</a>
 </p>
 <br />
 
@@ -54,7 +55,7 @@
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Bitopia ◽ <a href="https://bitopia.digital/">bitopia.digital</a>
+  Bitopia | <a href="https://bitopia.digital/">bitopia.digital</a>
 </p>
 <blockquote>
   - I’ve been working with Vue + Nuxt.<br />
@@ -72,7 +73,7 @@
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Coderhouse ◽ <a href="https://www.coderhouse.com/">coderhouse.com</a>
+  Coderhouse | <a href="https://www.coderhouse.com/">coderhouse.com</a>
 </p>
 <blockquote>
   - I teached in a digital academy, basically HTML, CSS, SASS, JS and useful tools like Bootstrap and Google Material Design, among others.<br />
@@ -86,7 +87,7 @@
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  AB project ◽ <a href="https://www.abproject.com.ar/">abproject.com.ar</a>
+  AB project | <a href="https://www.abproject.com.ar/">abproject.com.ar</a>
 </p>
 <blockquote>
   - I started working as a Junior Developer while studying graphic design.<br />
@@ -113,7 +114,7 @@
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  UADE ◽ <a href="https://www.uade.edu.ar/">uade.edu.ar</a>
+  UADE | <a href="https://www.uade.edu.ar/">uade.edu.ar</a>
 </p>
 <br />
 
@@ -122,7 +123,7 @@
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Platzi ◽ <a href="https://platzi.com/">platzi.com</a>
+  Platzi | <a href="https://platzi.com/">platzi.com</a>
 </p>
 <blockquote>
   - Vue.js Professional<br />

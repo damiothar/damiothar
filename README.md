@@ -1,17 +1,3 @@
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=damiothar&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=damiothar&show_icons=true&include_all_commits=true&count_private=true&hide_title=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-<br />
-
 <h3>
   🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a></br>
   🔸 <a href="https://codepen.io/damiothar">CodePen</a>
@@ -42,9 +28,18 @@
   - Adobe Creative Suite<br />
 </blockquote>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&theme=dark&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&theme=transparent&layout=compact" />
+</picture>
+<br />
 <br />
 
 <h2>LANGUAGES</h2>

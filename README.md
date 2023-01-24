@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiothar)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>
   🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a></br>
   🔸 <a href="https://codepen.io/damiothar">CodePen</a>

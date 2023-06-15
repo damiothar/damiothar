@@ -57,6 +57,20 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Emissary.ai | <a href="https://www.emissary.ai/">emissary.ai</a>
 </p>
+<blockquote>
+  Currently using this technologies:<br />
+  - Javascript<br />
+  - Typescript<br />
+  - Vue 2 and Vue 3<br />
+  - CSS / SASS<br />
+  - Vuetify and PrimeVue<br />
+  - Nuxt<br />
+  - REST<br />
+  - GraphQL<br />
+  - Cypress<br />
+  - Capacitor<br />
+  - Github<br />
+</blockquote>
 <br />
 
 <h3>

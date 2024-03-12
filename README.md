@@ -66,7 +66,6 @@
   Emissary.ai | <a href="https://www.emissary.ai/">emissary.ai</a>
 </p>
 <blockquote>
-  Currently using this technologies:<br />
   - As a member of the frontend team, I contribute to the development and maintenance of the frontend for a messaging web and mobile app.<br />
   - I am one of the three developers trusted with access to production deploys, demonstrating my ability to handle critical tasks and ensure the smooth operation of the app.<br />
   - I contributed to the successful migration of the web app from Vue 2 to Nuxt 2, and subsequently to Nuxt 3, ensuring a smooth transition.<br />

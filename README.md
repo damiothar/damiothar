@@ -93,20 +93,6 @@
 <br />
 
 <h3>
-  🔸 Web Design Teacher | Nov 2019 – Oct 2020 (1y)
-</h3>
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Coderhouse | <a href="https://www.coderhouse.com/">coderhouse.com</a>
-</p>
-<blockquote>
-  - I teached in a digital academy, basically HTML, CSS, SASS, JS and useful tools like Bootstrap and Google Material Design, among others.<br />
-  - I wasn’t afraid to go out of script to show a better way to do something.<br />
-  - I corrected and graded the final projects, which consisted in creating a full website, with a host and domain.<br />
-</blockquote>
-<br />
-
-<h3>
   🔸 Frontend Developer | Sep 2018 – Feb 2020 (1y 6m)
 </h3>
 <p>
@@ -117,18 +103,6 @@
   - I started working as a Junior Developer while studying graphic design.<br />
   - I developed websites using HTML, CSS, SASS, JS, Bootstrap, Joomla and PHP.<br />
   - When my mentor left I was the only Frontend working in the company so my responsibilities multiplied. I was in charge of hosting the websites in production and optimizing the SEO.<br />
-</blockquote>
-<br />
-
-<h3>
-  🔸 English Teacher | Aug 2011 – Dec 2016 (5y 5m)
-</h3>
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Buenos Aires Government
-</p>
-<blockquote>
-  - When I finished high school, I worked teaching English to adult beginners in a Buenos Aires Government program.<br />
 </blockquote>
 <br />
 
@@ -169,13 +143,4 @@
   - Dev Environment Configuration Windows<br />
   - Dev Environment Configuration MacOs<br />
 </blockquote>
-<br />
-
-<h3>
-  🔸 English Advance | 2004 - 2010 (6y)
-</h3>
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Denver Institute
-</p>
 <br />

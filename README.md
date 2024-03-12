@@ -40,20 +40,6 @@
 </blockquote>
 <br />
 
-<h2>SKILLS</h2>
-<blockquote>
-  - JavaScript & Typescript<br />
-  - Multiple JS libraries such as: Axios, GSAP, Three.js, Hammer.js, Howler.js, etc<br />
-  - Vue.js & Nuxt.js<br />
-  - CSS/SASS and style/components libraries such as: Vuetify, Bootstrap, Bulma/Bueffy, etc<br />
-  - GitHub & Bitbucket<br />
-  - Cypress<br />
-  - Graphic Design<br />
-  - UI & UX Design based on Google Material Design<br />
-  - Video Editing<br />
-  - Adobe Creative Suite<br />
-</blockquote>
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&theme=dark&layout=compact"

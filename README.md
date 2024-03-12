@@ -5,8 +5,9 @@
 
 <h2>ABOUT ME</h2>
 
+<h3>
 🔹 I'm currently using this stack:
-<br />
+</h3>
 <blockquote>
   - Javascript / Typescript<br />
   - Vue 3 / Nuxt 3<br />
@@ -18,8 +19,9 @@
 </blockquote>
 <br />
 
-🔹 Other technologies/libraries I've worked with:
-<br />
+<h3>
+  🔹 Other technologies/libraries I've worked with:
+</h3>
 <blockquote>
   - Svelte<br />
   - jQuery<br />
@@ -33,8 +35,9 @@
 </blockquote>
 <br />
 
+<h3>
 🔸 Some facts about me:
-<br />
+</h3>
 <blockquote>
   - I studied Graphic Design in Buenos Aires.<br />
   - Not afraid of new technologies, always learning.<br />

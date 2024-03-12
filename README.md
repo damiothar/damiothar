@@ -1,6 +1,5 @@
 <h3>
-  🔸 <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a></br>
-  🔸 <a href="https://codepen.io/damiothar">CodePen</a>
+  <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a> | <a href="https://codepen.io/damiothar">CodePen</a>
 </h3>
 <br />
 
@@ -47,6 +46,7 @@
 <br />
 
 <h2>LANGUAGES</h2>
+
 <blockquote>
   - English (Listening C1 - Reading C2)<br />
   - Spanish (Native)<br />
@@ -54,6 +54,7 @@
 <br />
 
 <h2>EXPERIENCE</h2>
+
 <h3>
   🔸 Senior Frontend Developer | Feb 2022 - Present
 </h3>
@@ -105,6 +106,7 @@
 <br />
 
 <h2>EDUCATION</h2>
+
 <h3>
   🔸 BA, Graphic Design | 2016 - 2020 (4y)
 </h3>

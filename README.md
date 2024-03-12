@@ -42,8 +42,8 @@
 
 <h2>LANGUAGES</h2>
 <blockquote>
-  - Spanish (Listening C1 - Reading C2)<br />
-  - English (Advance)<br />
+  - English (Listening C1 - Reading C2)<br />
+  - Spanish (Native)<br />
 </blockquote>
 <br />
 

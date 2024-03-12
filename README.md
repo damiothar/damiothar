@@ -59,36 +59,30 @@
 </p>
 <blockquote>
   Currently using this technologies:<br />
-  - Javascript<br />
-  - Typescript<br />
-  - Vue 2 and Vue 3<br />
-  - CSS / SASS<br />
-  - Vuetify and PrimeVue<br />
-  - Nuxt<br />
-  - REST<br />
-  - GraphQL<br />
-  - Cypress<br />
-  - Capacitor<br />
-  - Github<br />
+  - As a member of the frontend team, I contribute to the development and maintenance of the frontend for a messaging web and mobile app.<br />
+  - I am one of the three developers trusted with access to production deploys, demonstrating my ability to handle critical tasks and ensure the smooth operation of the app.<br />
+  - I contributed to the successful migration of the web app from Vue 2 to Nuxt 2, and subsequently to Nuxt 3, ensuring a smooth transition.<br />
+  - One of my core strengths lies in UI improvements. I consistently provide valuable feedback during code reviews, suggesting enhancements and creating user stories to refine the user interface.<br />
+  - I played a key role in the development of various features, including "import contacts", "message campaigns", "message stats", "multiple time zones" and "message translations".<br />
+  - I am responsible for maintaining and refactoring one of our most popular products, a Chrome extension that enhances the functionality of the main app and integrate different services.<br />
+  - I migrated multiple services and integrations from JavaScript to TypeScript, improving code quality and maintainability.<br />
+  - I actively create and maintain automation tests using Cypress, enabling efficient and reliable testing of the application.<br />
 </blockquote>
 <br />
 
 <h3>
-  🔸 Frontend Tech Leader | Apr 2021 - Feb 2022 (1 y)<br />
-  🔸 Frontend Developer | Mar 2020 - Mar 2021 (1 y)
+  🔸 Frontend Developer | Mar 2020 - Mar 2022 (2 y)
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Bitopia | <a href="https://bitopia.digital/">bitopia.digital</a>
 </p>
 <blockquote>
-  - I’ve been working with Vue + Nuxt.<br />
-  - As a Teach Leader I decide the stack that we use for web development.<br />
+  - I decided the stack that we used for web development<br />
   - I managed a group of 4 developers.<br />
-  - Coding good practices are fundamental for me.<br />
-  - I use multiple JS libraries and tools to develop pixel perfect websites.<br />
+  - I used multiple JS libraries and tools to develop pixel perfect websites.<br />
   - I make lots of integrations with apis.<br />
-  - I developed some of the most interactive websites made by the company.<br />
+  - I developed some of the best websites made by the company.<br />
 </blockquote>
 <br />
 

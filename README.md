@@ -40,20 +40,6 @@
 </blockquote>
 <br />
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&theme=dark&layout=compact"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=damiothar&show_icons=true&theme=transparent&layout=compact" />
-</picture>
-<br />
-<br />
-
 <h2>LANGUAGES</h2>
 <blockquote>
   - Spanish (Native)<br />

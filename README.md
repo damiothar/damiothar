@@ -6,6 +6,7 @@
 
 <h2>ABOUT ME</h2>
 🔹 I'm currently using this stack:
+<br />
 <blockquote>
   - Javascript / Typescript<br />
   - Vue 3 / Nuxt 3<br />
@@ -16,7 +17,9 @@
   - Capacitor<br />
 </blockquote>
 <br />
+
 🔹 Other technologies/libraries I've worked with:
+<br />
 <blockquote>
   - Svelte<br />
   - jQuery<br />
@@ -29,7 +32,9 @@
   - Laravel / Blade<br />
 </blockquote>
 <br />
+
 🔸 Some facts about me:
+<br />
 <blockquote>
   - I studied Graphic Design in Buenos Aires.<br />
   - Not afraid of new technologies, always learning.<br />

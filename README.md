@@ -5,12 +5,38 @@
 <br />
 
 <h2>ABOUT ME</h2>
+🔹 I'm currently using this stack:
 <blockquote>
-  - Currently working with Vue/Nuxt stack 🖥<br />
-  - I've studied Graphic Design in Buenos Aires 🎨<br />
-  - I am perfectionist 👌 and I am always learning 🤓<br />
-  - Sci-Fi Nerd 🚀, amateur photographer 📷 and musician 🎸<br />
-  - I love to travel ✈, snowboarding 🏂 and trekking 🏃‍♂️<br />
+  - Javascript / Typescript<br />
+  - Vue 3 / Nuxt 3<br />
+  - CSS / SASS<br />
+  - Vuetify<br />
+  - REST / GraphQL<br />
+  - Cypress<br />
+  - Capacitor<br />
+</blockquote>
+<br />
+🔹 Other technologies/libraries I've worked with:
+<blockquote>
+  - Svelte<br />
+  - jQuery<br />
+  - Bootstrap / Bulma / Bueffy<br />
+  - Three.js<br />
+  - gsap<br />
+  - Strapi<br />
+  - Joomla!<br />
+  - WordPress<br />
+  - Laravel / Blade<br />
+</blockquote>
+<br />
+🔸 Some facts about me:
+<blockquote>
+  - I studied Graphic Design in Buenos Aires.<br />
+  - Not afraid of new technologies, always learning.<br />
+  - Coding good practices are fundamental for me.<br />
+  - Perfectionist.<br />
+  - Sci-Fi Nerd. Amateur photographer and musician.<br />
+  - I love to travel, snowboarding and trekking.<br />
 </blockquote>
 <br />
 

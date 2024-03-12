@@ -42,7 +42,7 @@
 
 <h2>LANGUAGES</h2>
 <blockquote>
-  - Spanish (Native)<br />
+  - Spanish (Listening C1 - Reading C2)<br />
   - English (Advance)<br />
 </blockquote>
 <br />

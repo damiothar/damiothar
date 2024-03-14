@@ -1,6 +1,8 @@
 <h3>
   <a href="https://www.linkedin.com/in/damiothar/">LinkedIn</a> | <a href="https://codepen.io/damiothar">CodePen</a>
 </h3>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <br />
 
 <h2>ABOUT ME</h2>

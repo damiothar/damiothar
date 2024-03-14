@@ -1,5 +1,5 @@
 <h3>
-  <a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a> | <a href="https://codepen.io/damiothar">CodePen</a>
+  <a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a> | <a href="https://codepen.io/damianothar">CodePen</a>
 </h3>
 <br />
 

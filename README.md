@@ -110,7 +110,7 @@
 <h2>EDUCATION</h2>
 
 <h3>
-  🔸 BA, Graphic Design | 2016 - 2020 (4y)
+  🔸 BA, Graphic Design
 </h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

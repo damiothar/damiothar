@@ -1,5 +1,4 @@
 <h2>🔹 Skills</h2>
-<img src="https://mypicto.xyz/icons?i=javascript,typescript,vue,nuxt&height=50">
 <p>
 JavaScript · TypeScript · Vue.js · Nuxt.js · GraphQL · REST APIs · Vuetify · Responsive Web Design · Cypress · Capacitor · Chrome Extensions · GSAP · Three.js · Bootstrap · Bulma · Buefy · WordPress · Joomla! · Strapi · Supabase · HTML · CSS · SASS · On-Page SEO 
 </p>

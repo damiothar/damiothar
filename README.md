@@ -1,11 +1,11 @@
-<h2>🔹 Skills</h2>
+<h2>🚀 Skills</h2>
 <p>
 JavaScript · TypeScript · Vue.js · Nuxt.js · GraphQL · REST APIs · Vuetify · Responsive Web Design · Cypress · Capacitor · Chrome Extensions · GSAP · Three.js · Bootstrap · Bulma · Buefy · WordPress · Joomla! · Strapi · Supabase · HTML · CSS · SASS · On-Page SEO 
 </p>
 <p>
 Graphic Design · Web Design · User Interface Design · User Experience (UX) · Video Production · Video Editing · Digital Photography · Adobe Photoshop · Adobe Illustrator · Adobe Premiere Pro · Adobe Lightroom · Figma
 </p>
-<h2>🔹 About Me</h2>
+<h2>✨ About Me</h2>
 <p>
 I studied Graphic Design in Buenos Aires, blending creativity with technical expertise to deliver exceptional frontend development. Not afraid of new technologies, I’m always eager to learn and stay ahead in the ever-evolving tech landscape. A perfectionist by nature, I prioritize coding good practices to ensure clean, maintainable code.  
 </p>

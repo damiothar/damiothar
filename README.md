@@ -13,5 +13,5 @@ I studied Graphic Design in Buenos Aires, blending creativity with technical exp
 As a Sci-Fi nerd, I thrive on imagination and innovation. My passions extend beyond the screen; I enjoy urban exploration, amateur photography, and creating house/techno music. Traveling, snowboarding, and trekking fuel my adventurous spirit, allowing me to bring fresh perspectives to my work. Let’s connect and explore the future of web development together!  
 </p>
 <p>
-  See my full profile on <a href="https://www.linkedin.com/in/damianothar/">LinkedIn</a>, but if you’re here for the fun stuff, head to my <a href="https://codepen.io/damianothar">CodePen</a>!
+  See my full profile on <a href="https://www.linkedin.com/in/damianothar">LinkedIn</a>. Or if you're curious about how I actually write code, dig into <a href="https://github.com/damiothar?tab=repositories">my GitHub repos</a>.
 </p>

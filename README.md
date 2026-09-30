@@ -1,17 +1,28 @@
-<h2>🚀 Skills</h2>
-<p>
-JavaScript · TypeScript · Vue.js · Nuxt.js · GraphQL · REST APIs · Vuetify · Responsive Web Design · Cypress · Capacitor · Chrome Extensions · GSAP · Three.js · Bootstrap · Bulma · Buefy · WordPress · Joomla! · Strapi · Supabase · HTML · CSS · SASS · On-Page SEO 
-</p>
-<p>
-Graphic Design · Web Design · User Interface Design · User Experience (UX) · Video Production · Video Editing · Digital Photography · Adobe Photoshop · Adobe Illustrator · Adobe Premiere Pro · Adobe Lightroom · Figma
-</p>
-<h2>✨ About Me</h2>
-<p>
-I studied Graphic Design in Buenos Aires, blending creativity with technical expertise to deliver exceptional frontend development. Not afraid of new technologies, I’m always eager to learn and stay ahead in the ever-evolving tech landscape. A perfectionist by nature, I prioritize coding good practices to ensure clean, maintainable code.  
-</p>
-<p>
-As a Sci-Fi nerd, I thrive on imagination and innovation. My passions extend beyond the screen; I enjoy urban exploration, amateur photography, and creating house/techno music. Traveling, snowboarding, and trekking fuel my adventurous spirit, allowing me to bring fresh perspectives to my work. Let’s connect and explore the future of web development together!  
-</p>
-<p>
-  See my full profile on <a href="https://www.linkedin.com/in/damianothar">LinkedIn</a>. Or if you're curious about how I actually write code, dig into <a href="https://github.com/damiothar?tab=repositories">my GitHub repos</a>.
-</p>
+# Hi, I'm Damian
+
+Senior Frontend Engineer | Vue.js, Nuxt & TypeScript | 6+ years building web and mobile apps for US-based companies | UI/UX design background
+
+## About me
+
+I'm a senior frontend engineer with 8 years of experience, the last 6+ building web and mobile products for US-based companies. I work mainly with Vue.js, Nuxt and TypeScript, and I care about two things: the details users notice and the code the next developer inherits.
+
+I studied multimedia and interaction design, and I work at a professional level in Figma and Adobe Creative Cloud, so I can go from design to production without losing anything along the way.
+
+I'm based in Argentina, 1 to 2 hours ahead of US Eastern time.
+
+## Tech stack
+
+- **Frontend:** Vue.js, Nuxt, TypeScript, JavaScript, Pinia, Vuetify
+- **Data:** GraphQL (Apollo Client), REST APIs
+- **Mobile and browser:** Capacitor, Chrome Extensions
+- **Animation and 3D:** GSAP, Three.js
+- **Testing and CI/CD:** Cypress, GitHub Actions
+- **Design:** Figma, Photoshop, Illustrator, Premiere Pro, Lightroom
+
+## Outside of work
+
+I'm usually tinkering with something at home, from retro consoles to home automation. I lived in Tokyo for a few months and Japan is still my favorite place in the world. I'm a big fan of dystopian sci-fi, and I also enjoy chess, snowboarding, amateur photography and playing guitar now and then.
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/damianothar)

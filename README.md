@@ -19,6 +19,10 @@ I'm based in Argentina, 1 to 2 hours ahead of US Eastern time.
 - **Testing and CI/CD:** Cypress, GitHub Actions
 - **Design:** Figma, Photoshop, Illustrator, Premiere Pro, Lightroom
 
+## Projects
+
+Most of my professional work lives in private repositories, so what you see here are personal projects and experiments. Each one has a live demo on GitHub Pages.
+
 ## Outside of work
 
 I'm usually tinkering with something at home, from retro consoles to home automation. I lived in Tokyo for a few months and Japan is still my favorite place in the world. I'm a big fan of dystopian sci-fi, and I also enjoy chess, snowboarding, amateur photography and playing guitar now and then.

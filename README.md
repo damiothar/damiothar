@@ -13,7 +13,7 @@ I'm based in Argentina, 1 to 2 hours ahead of US Eastern time.
 ## Tech stack
 
 - **Frontend:** Vue.js, Nuxt, TypeScript, JavaScript, Pinia, Vuetify
-- **Data:** GraphQL (Apollo Client), REST APIs
+- **Data:** GraphQL, REST APIs
 - **Mobile and browser:** Capacitor, Chrome Extensions
 - **Animation and 3D:** GSAP, Three.js
 - **Testing and CI/CD:** Cypress, GitHub Actions
